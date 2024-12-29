@@ -7,7 +7,7 @@
     background-color: yellow;
 }
 
-.font {
+.first-btn, .second-btn {
     font-size: 28px;
     font-family: Helvetica,"Time New Roman", sans-serif;
 }
