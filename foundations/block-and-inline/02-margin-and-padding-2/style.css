@@ -29,6 +29,7 @@ body {
 .button-container {
   background: #e3f4ff;
   text-align: center;
+  padding: 10px;
 }
 
 button {
@@ -38,5 +39,5 @@ button {
   box-sizing: border-box;
   width: 150px;
   padding: 10px 30px;
-  margin: 5px 33%;
+  margin: 0px 33%;
 }
