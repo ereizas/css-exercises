@@ -31,6 +31,15 @@ body {
   align-self: center;
 }
 
+.links {
+  display: flex;
+  align-items: center;
+}
+
+.links li {
+  margin: 10px;
+}
+
 button {
   border: none;
   border-radius: 8px;
