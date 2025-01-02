@@ -47,10 +47,7 @@ body {
 .links {
   display: flex;
   align-items: center;
-}
-
-.links li {
-  margin: 10px;
+  gap: 10px;
 }
 
 button {
