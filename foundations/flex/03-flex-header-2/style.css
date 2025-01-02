@@ -16,12 +16,7 @@ body {
   justify-content: space-between;
 }
 
-.left {
-  display: flex;
-  gap: 16px;
-}
-
-.right {
+.left, .right {
   display: flex;
   align-items: center;
   gap: 16px;
@@ -67,4 +62,6 @@ a {
 
 ul {
   list-style-type: none;
+  margin: 0px;
+  padding: 0px;
 }
