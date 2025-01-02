@@ -16,6 +16,8 @@ img {
 
 .content {
   display: flex;
+  justify-content: space-around;
+  padding: 32px;
 }
 
 .media {
