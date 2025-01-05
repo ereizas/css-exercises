@@ -14,10 +14,12 @@ body {
   align-items: center;
   font-size: 25px;
   font-weight:900;
+  flex-shrink: 0;
 }
 
 .center {
   display: flex;
+  flex: 8;
 }
 
 .footer {
@@ -27,6 +29,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  flex-shrink: 0;
 }
 
 .sidebar {
