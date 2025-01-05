@@ -27,10 +27,13 @@ input {
 
 .header, .footer {
   display: flex;
+  justify-content: space-between;
 }
 
 .left-links, .right-links {
   list-style-type: none;
   display: flex;
   gap: 15px;
+  padding-left: 0px;
+  margin: 15px;
 }
