@@ -24,9 +24,9 @@ body {
   display: flex;
 }
 
-.header {
+.center {
   display: flex;
-  justify-content: space-between;
+  flex-direction: column;
 }
 
 .icon {
