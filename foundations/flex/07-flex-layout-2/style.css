@@ -42,3 +42,7 @@ body {
   padding: 10px;
   margin: 15px;
 }
+
+.card-grid {
+  display: flex;
+}
