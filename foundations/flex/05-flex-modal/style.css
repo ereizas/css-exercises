@@ -43,12 +43,9 @@ body {
   flex: 1 0 auto;
 }
 
-.warning {
-  display:flex;
-}
-
-.close {
-  display: flex;
+.question {
+  font-weight: bold;
+  font-size: 18px;
 }
 
 .close-button {
