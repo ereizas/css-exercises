@@ -53,3 +53,12 @@ body {
   flex-wrap: wrap;
   flex: 11;
 }
+
+ul {
+  list-style-type: none;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
