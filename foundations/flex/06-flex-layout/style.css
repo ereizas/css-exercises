@@ -34,6 +34,10 @@ input {
   padding: 10px;
 }
 
+.footer {
+  background-color: #eeeeee;
+}
+
 .left-links, .right-links {
   list-style-type: none;
   display: flex;
